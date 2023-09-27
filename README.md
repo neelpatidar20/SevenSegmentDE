@@ -9,3 +9,5 @@ step5: Shift the characters 'd', 'E', and '0' using sel = 00, 01, 10 and so on.
 
 Note:   1. implement just a combinational circuit.
         2. Use data flow modelling to implement MUX.
+        3. need to add some more points.
+        
